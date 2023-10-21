@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akshay381.
+- 👋 Hi, I’m @Kunal.
 - 👀 I’m interested in Blogging ,programming ,content writing.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...
